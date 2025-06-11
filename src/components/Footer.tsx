@@ -33,7 +33,7 @@ const Footer = () => {
               and private services accessible through technology with professional support.
             </p>
             <a
-              href="https://wa.me/919876543210?text=Hello%2C%20I%20need%20information%20about%20your%20services"
+              href="https://wa.me/919209934667?text=Hello%2C%20I%20need%20information%20about%20your%20services"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-lg transition-colors"
